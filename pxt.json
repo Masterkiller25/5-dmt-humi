@@ -1,5 +1,5 @@
 {
-    "name": "5. DMT humi",
+    "name": "5. DHT Temp",
     "description": "",
     "dependencies": {
         "core": "*",

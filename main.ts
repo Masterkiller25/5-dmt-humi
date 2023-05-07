@@ -6,6 +6,6 @@ input.onButtonPressed(Button.A, function () {
     false,
     true
     )
-    basic.showString("" + (dht11_dht22.readData(dataType.humidity)))
+    basic.showString("" + (dht11_dht22.readData(dataType.temperature)))
 })
 dht11_dht22.selectTempType(tempType.celsius)
